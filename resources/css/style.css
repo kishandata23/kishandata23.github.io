@@ -1,0 +1,19 @@
+ 
+footer{
+    text-align: center;
+    -webkit-transition: .5s ease-in-out;
+    /* position: absolute; */
+    color: azure;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    /* min-width: 967px; */
+    /* font-size: 20px; */
+    /* height: px; */
+    background-color: #212121;
+    margin: 0 0 0 0;
+    padding-bottom: 5px;
+    display: inline-block;
+    white-space: nowrap;
+
+}
