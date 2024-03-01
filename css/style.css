@@ -28,7 +28,7 @@
  
  
 body{
-	background: var(--bg-color);
+	background: var(--second-bg-color);
 	color: var(--text-color);
 }
 html, body {
@@ -689,7 +689,7 @@ body
 
 
 .project{
-	background: var(--second-bg-color);
+	background: var(--bg-color);
 }
 
 .project-content{
