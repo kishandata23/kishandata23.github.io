@@ -35,7 +35,7 @@ body{
 }
 
 .services-container .services-box{
-    flex:  1 1 ;
+    flex:  1 1;
     /* background-color: ; */
     padding: 4rem  ;
     border-radius: 2rem;
