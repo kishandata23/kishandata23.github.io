@@ -34,7 +34,7 @@ body{
     gap: 1rem;
 }
 
-.services-container .services-box{
+ .services-box{
     flex:  1 1;
     /* background-color: ; */
     padding: 4rem  ;
