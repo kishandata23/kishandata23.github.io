@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://kishandata23.github.io",
   "scripts": {
+    "dev": "react-scripts start",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -25,5 +26,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "dependencies": {
+    "lucide-react": "^0.537.0",
+    "react-dom": "^19.1.1",
+    "react-scripts": "^5.0.1",
+    "web-vitals": "^5.1.0"
   }
 }
