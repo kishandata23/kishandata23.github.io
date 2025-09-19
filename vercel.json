@@ -3,6 +3,14 @@
     {
       "source": "/:match*",
       "destination": "https://kishandata-api.vercel.app/:match*"
+    },
+    {
+      "source": "/blogs/:match*",
+      "destination": "https://kishandata-blogs.vercel.app/:match*"
+    },
+    {
+      "source": "/code/:match*",
+      "destination": "https://kishandata-code.vercel.app/:match*"
     }
   ]
 }
