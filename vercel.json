@@ -1,16 +1,16 @@
 {
   "rewrites": [
     {
-      "source": "/api/:match*",
-      "destination": "https://kishandata-api.vercel.app/:match*"
+      "source": "/api/:path*",
+      "destination": "https://kishandata-api.vercel.app/:path*"
     },
     {
-      "source": "/blogs/:match*",
-      "destination": "https://kishandata-blogs.vercel.app/:match*"
+      "source": "/blogs/:path*",
+      "destination": "https://kishandata-blogs.vercel.app/:path*"
     },
     {
-      "source": "/code/:match*",
-      "destination": "https://kishandata-code.vercel.app/:match*"
+      "source": "/code/:path*",
+      "destination": "https://kishandata-code.vercel.app/:path*"
     }
   ]
 }
